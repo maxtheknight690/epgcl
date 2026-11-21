@@ -1,6 +1,210 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="UChile TV">
-
-<channel id="UChile TV">
+  <channel id="UChile TV">
     <display-name>UChile TV</display-name>
   </channel>
+  <programme start="20261121063500 -0300" stop="20261121070000 -0300" channel="UChile TV">
+    <title>Perrito Galactico</title>
+    <desc>El quiltro chileno que viaja al espacio con sus amigos y vive aventuras singulares con extraterrestres y más.</desc>
+  </programme>
+  <programme start="20261121070000 -0300" stop="20261121080000 -0300" channel="UChile TV">
+    <title>Repertorio CL</title>
+    <desc>Entrevistas y especiales de videoclips y presentaciones que retratan la música chilena.</desc>
+  </programme>
+  <programme start="20261121080000 -0300" stop="20261121103000 -0300" channel="UChile TV">
+    <title>CNTV Infantil</title>
+    <desc>Espacio infantil que recoge lo mejor de la producción para los más pequeños apoyada por el Consejo Nacional de Televisión.</desc>
+  </programme>
+  <programme start="20261121103000 -0300" stop="20261121110000 -0300" channel="UChile TV">
+    <title>Kima y Amik</title>
+    <desc>Kima y Amik son primos muy distintos: una ama la ciudad y los robots, el otro el campo y los bichos. Juntos viven divertidas aventuras que muestran como las diferencias también pueden unir.</desc>
+  </programme>
+  <programme start="20261121110000 -0300" stop="20261121113000 -0300" channel="UChile TV">
+    <title>Raffi</title>
+    <desc>El curioso Raffi y la pequeña Ema descubren los beneficios de una vida sana, aprendiendo de forma didáctica sobre el origen de las frutas y verduras en la naturaleza.</desc>
+  </programme>
+  <programme start="20261121113000 -0300" stop="20261121120000 -0300" channel="UChile TV">
+    <title>NCC Noticias</title>
+    <desc>Noticias que impactan a nuestra sociedad: Salud, ciencia, arte y sociedad</desc>
+  </programme>
+  <programme start="20261121120000 -0300" stop="20261121123000 -0300" channel="UChile TV">
+    <title>Simple y nutritivo</title>
+    <desc>Comer sano es fundamental para una vida saludable. Dedicar tiempo a la preparación de comidas nutritivas en medio de rutinas aceleradas es cada vez más difícil.</desc>
+  </programme>
+  <programme start="20261121123000 -0300" stop="20261121130000 -0300" channel="UChile TV">
+    <title>Pasión por el agro</title>
+    <desc>Programa que promueve la reflexión sobre los desafíos agrícolas y difunde tecnologías innovadoras para una producción sustentable.</desc>
+  </programme>
+  <programme start="20261121130000 -0300" stop="20261121140000 -0300" channel="UChile TV">
+    <title>UESTV Noticias</title>
+    <desc>Informativo de la red de televisión de las Universidades del Estado de Chile. Con las principales informaciones académicas y culturales de las casas de estudio superior a lo largo del país.</desc>
+  </programme>
+  <programme start="20261121140000 -0300" stop="20261121143000 -0300" channel="UChile TV">
+    <title>De Kiosko en Kiosco</title>
+    <desc>Un programa que recorre cada uno de los 125 municipios de Jalisco. Se muestran los tradicionales kioscos de cada pueblo, sus historias, tradiciones y cultura.</desc>
+  </programme>
+  <programme start="20261121143000 -0300" stop="20261121150000 -0300" channel="UChile TV">
+    <title>UTopia</title>
+    <desc>Serie documental de 5 episodios que explora el impacto de la inteligencia artificial en América Latina y el mundo.</desc>
+  </programme>
+  <programme start="20261121150000 -0300" stop="20261121170000 -0300" channel="UChile TV">
+    <title>CNTV Infantil</title>
+    <desc>Espacio infantil que recoge lo mejor de la producción para los más pequeños apoyada por el Consejo Nacional de Televisión.</desc>
+  </programme>
+  <programme start="20261121170000 -0300" stop="20261121173000 -0300" channel="UChile TV">
+    <title>Sacrificio Chileno</title>
+    <desc>Serie documental que examina salmoneras, forestales, inmobiliarias y minería, mostrando sus beneficios y perjuicios en comunidades locales y la paradoja del progreso en Chile.</desc>
+  </programme>
+  <programme start="20261121173000 -0300" stop="20261121180000 -0300" channel="UChile TV">
+    <title>Delineando Incertidumbres</title>
+    <desc>Es un proyecto de divulgación cultural y ecológica, que fomenta un diálogo entre humanidades, ciencias sociales, ecología y naturaleza.</desc>
+  </programme>
+  <programme start="20261121180000 -0300" stop="20261121190000 -0300" channel="UChile TV">
+    <title>Conversaciones Dramaticas</title>
+    <desc>Programa que revisa cómo se hacen los guiones, las dramaturgias, y cómo se llevan al mundo del cine.</desc>
+  </programme>
+  <programme start="20261121190000 -0300" stop="20261121193000 -0300" channel="UChile TV">
+    <title>Repertorio CL: Solo Videoclips</title>
+    <desc>En su versión más elemental, mostramos los videoclips de la música chilena contemporánea.</desc>
+  </programme>
+  <programme start="20261121193000 -0300" stop="20261121210000 -0300" channel="UChile TV">
+    <title>Volver al sur del mundo</title>
+    <desc>Volver al Sur del Mundo repasa premiados documentales de "Al Sur del Mundo", en versiones remasterizadas, junto a entrevistas actualizadas con su creador, Francisco Gedda.</desc>
+  </programme>
+  <programme start="20261121210000 -0300" stop="20261121220000 -0300" channel="UChile TV">
+    <title>Cuestión de Gustos</title>
+    <desc>Antonella Estévez conversa con artistas y creadores sobre los libros, películas y canciones que han marcado sus vidas y su forma de crear.</desc>
+  </programme>
+  <programme start="20261121220000 -0300" stop="20261121233000 -0300" channel="UChile TV">
+    <title>Dominio Público</title>
+    <desc>Exhibición de películas de bajo presupuesto, cine de género y obras de culto liberadas de derechos de exhibición, todas presentadas y analizadas por Felipe Blanco.</desc>
+  </programme>
+  <programme start="20261121233000 -0300" stop="20261122000000 -0300" channel="UChile TV">
+    <title>La Fiesta de los que Nunca Mueren</title>
+    <desc>Muestra cómo se vive el Día de Muertos en distintas regiones del centro y sur de México.</desc>
+  </programme>
+  <programme start="20261122000000 -0300" stop="20261122003000 -0300" channel="UChile TV">
+    <title>Imágenes Paganas</title>
+    <desc>Video arte y otras narraciones de la imagen en movimiento. Experiencias visuales sin censura.</desc>
+  </programme>
+  <programme start="20261122003000 -0300" stop="20261122010000 -0300" channel="UChile TV">
+    <title>Imágenes Paganas</title>
+    <desc>Video arte y otras narraciones de la imagen en movimiento. Experiencias visuales sin censura.</desc>
+  </programme>
+  <programme start="20261122010000 -0300" stop="20261122063500 -0300" channel="UChile TV">
+    <title>Cierre de Transmisiones</title>
+    <desc>Fin de emisión diaria del canal.</desc>
+  </programme>
+  <programme start="20261122063500 -0300" stop="20261122070000 -0300" channel="UChile TV">
+    <title>Perrito Galactico</title>
+    <desc>El quiltro chileno que viaja al espacio con sus amigos y vive aventuras singulares con extraterrestres y más.</desc>
+  </programme>
+  <programme start="20261122070000 -0300" stop="20261122080000 -0300" channel="UChile TV">
+    <title>Repertorio CL</title>
+    <desc>Entrevistas y especiales de videoclips y presentaciones que retratan la música chilena.</desc>
+  </programme>
+  <programme start="20261122080000 -0300" stop="20261122103000 -0300" channel="UChile TV">
+    <title>CNTV Infantil</title>
+    <desc>Espacio infantil que recoge lo mejor de la producción para los más pequeños apoyada por el Consejo Nacional de Televisión.</desc>
+  </programme>
+  <programme start="20261122103000 -0300" stop="20261122110000 -0300" channel="UChile TV">
+    <title>Kima y Amik</title>
+    <desc>Kima y Amik son primos muy distintos: una ama la ciudad y los robots, el otro el campo y los bichos. Juntos viven divertidas aventuras que muestran como las diferencias también pueden unir.</desc>
+  </programme>
+  <programme start="20261122110000 -0300" stop="20261122113000 -0300" channel="UChile TV">
+    <title>NCC Salud</title>
+    <desc>Las noticias que educan y informan sobre la salud en Latinoamérica y el Caribe.</desc>
+  </programme>
+  <programme start="20261122113000 -0300" stop="20261122120000 -0300" channel="UChile TV">
+    <title>NCC Climático</title>
+    <desc>Noticias sobre los proyectos medio ambientales y los efectos del cambio climático.</desc>
+  </programme>
+  <programme start="20261122120000 -0300" stop="20261122130000 -0300" channel="UChile TV">
+    <title>Tangram</title>
+    <desc>Programa de debate y contingencia nacional que busca poner de frente los debates más urgentes que atraviesan la coyuntura social, política y económica desde una perspectiva que potencia la confluencia de propuestas para pensar el país.</desc>
+  </programme>
+  <programme start="20261122130000 -0300" stop="20261122133000 -0300" channel="UChile TV">
+    <title>Chile antes de Chile</title>
+    <desc>Serie documental e antropológica, que reconstruye la historia del país en la época precolombina.</desc>
+  </programme>
+  <programme start="20261122133000 -0300" stop="20261122140000 -0300" channel="UChile TV">
+    <title>La Cocina de mi Abuela</title>
+    <desc>El cantante Fito Osorio, recuerda las deliciosas preparaciones que su abuela le preparó. En compañía de la chef Martha Mora, veremos los mejores platos de la cocina hogareña de Colombia.</desc>
+  </programme>
+  <programme start="20261122140000 -0300" stop="20261122141000 -0300" channel="UChile TV">
+    <title>¿Como llegamos hasta aquí?</title>
+    <desc>Tu ropa, tu celular, tus alimentos y entretención tienen un impacto. Descubre cómo las industrias moldean el mundo y qué podemos hacer para impulsar un desarrollo sostenible.</desc>
+  </programme>
+  <programme start="20261122141000 -0300" stop="20261122141500 -0300" channel="UChile TV">
+    <title>Sinopsis de libros</title>
+    <desc>Recreaciones de clásicos y nuevas obras literarias chilenas. Reconocidos elencos de actores encarnan entrañables personas.</desc>
+  </programme>
+  <programme start="20261122141500 -0300" stop="20261122142000 -0300" channel="UChile TV">
+    <title>Yara Yara</title>
+    <desc>Cápsulas cortas compuestas de cuentos amateur leídos en el marco del evento "Yara Yara"</desc>
+  </programme>
+  <programme start="20261122142000 -0300" stop="20261122143000 -0300" channel="UChile TV">
+    <title>Sinopsis de libros</title>
+    <desc>Recreaciones de clásicos y nuevas obras literarias chilenas. Reconocidos elencos de actores encarnan entrañables personas.</desc>
+  </programme>
+  <programme start="20261122143000 -0300" stop="20261122150000 -0300" channel="UChile TV">
+    <title>Oficios Extraordinarios</title>
+    <desc>Programa de entrevista a diferentes personas que tienen oficios fuera de lo común.</desc>
+  </programme>
+  <programme start="20261122150000 -0300" stop="20261122170000 -0300" channel="UChile TV">
+    <title>CNTV Infantil</title>
+    <desc>Espacio infantil que recoge lo mejor de la producción para los más pequeños apoyada por el Consejo Nacional de Televisión.</desc>
+  </programme>
+  <programme start="20261122170000 -0300" stop="20261122180000 -0300" channel="UChile TV">
+    <title>Cuarto Medio</title>
+    <desc>Narra la historia del último año de educación media de estudiantes chilenos.</desc>
+  </programme>
+  <programme start="20261122180000 -0300" stop="20261122190000 -0300" channel="UChile TV">
+    <title>Revelados</title>
+    <desc>Espacio donde figuras públicas comparten historias desconocidas de su vida, a través de entrevistas íntimas y fotos significativas que marcan su camino.</desc>
+  </programme>
+  <programme start="20261122190000 -0300" stop="20261122200000 -0300" channel="UChile TV">
+    <title>Caleidoscopio</title>
+    <desc>Programa que ofrece una mirada amplia y diversa sobre el estado de las artes, la cultura, los patrimonios y los territorios en Chile, a través de los mejores documentales y reportajes.</desc>
+  </programme>
+  <programme start="20261122200000 -0300" stop="20261122203000 -0300" channel="UChile TV">
+    <title>La Historia Sumergida</title>
+    <desc>Historiadores, pescadores y buzos reconstruyen la importante memoria de la navegación del sur austral de Chile.</desc>
+  </programme>
+  <programme start="20261122203000 -0300" stop="20261122204500 -0300" channel="UChile TV">
+    <title>Navegantes de la Patagonia</title>
+    <desc>Serie documental que recorre el sur de Chile por sus extensas rutas acuáticas, mostrando comunidades que viven en estrecha relación con la naturaleza, muchas veces alejadas de las tecnologías urbanas.</desc>
+  </programme>
+  <programme start="20261122204500 -0300" stop="20261122210000 -0300" channel="UChile TV">
+    <title>Arauco Vive</title>
+    <desc>Serie documental que rescata las tradiciones, historia, biodiversidad y visión de mundo que surgen en torno al territorio ancestral de Arauco.</desc>
+  </programme>
+  <programme start="20261122210000 -0300" stop="20261122220000 -0300" channel="UChile TV">
+    <title>Tempo</title>
+    <desc>Un recorrido por músicos y la creación de un repertorio original.</desc>
+  </programme>
+  <programme start="20261122220000 -0300" stop="20261122233000 -0300" channel="UChile TV">
+    <title>Descabelladas</title>
+    <desc>Programa de debate, actualidad y contingencia.</desc>
+  </programme>
+  <programme start="20261122233000 -0300" stop="20261123000000 -0300" channel="UChile TV">
+    <title>Ciudadano de a pie</title>
+    <desc>Programa conducido por Francisco Vidal que conecta historia, educación cívica y actualidad para comprender Chile desde la mirada del ciudadano común.</desc>
+  </programme>
+  <programme start="20261123000000 -0300" stop="20261123013000 -0300" channel="UChile TV">
+    <title>Dominio Público</title>
+    <desc>Exhibición de películas de bajo presupuesto, cine de género y obras de culto liberadas de derechos de exhibición, todas presentadas y analizadas por Felipe Blanco.</desc>
+  </programme>
+  <programme start="20261123013000 -0300" stop="20261123020000 -0300" channel="UChile TV">
+    <title>Imágenes Paganas</title>
+    <desc>Video arte y otras narraciones de la imagen en movimiento. Experiencias visuales sin censura.</desc>
+  </programme>
+  <programme start="20261123020000 -0300" stop="20261123023000 -0300" channel="UChile TV">
+    <title>Imágenes Paganas</title>
+    <desc>Video arte y otras narraciones de la imagen en movimiento. Experiencias visuales sin censura.</desc>
+  </programme>
+  <programme start="20261123023000 -0300" stop="20261123063500 -0300" channel="UChile TV">
+    <title>Cierre de Transmisiones</title>
+    <desc>Fin de emisión diaria del canal.</desc>
+  </programme>
+</tv>
